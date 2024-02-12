@@ -1,8 +1,8 @@
 print("\n--- users ---")
 user0 = {
-  'username': 'efermi',
-  'first': 'enrico',
-  'last': 'fermi'
+    'username': 'efermi',
+    'first': 'enrico',
+    'last': 'fermi'
 }
 
 # print all keys and values
@@ -29,10 +29,10 @@ print("\n--- looping through k, v items ---")
 # a new dictionary
 print("\n--- favorite languages ---")
 favs = {
-  'jen': 'python',
-  'sarah': 'c',
-  'edward': 'ruby',
-  'phil': 'python'
+    'jen': 'python',
+    'sarah': 'c',
+    'edward': 'ruby',
+    'phil': 'python'
 }
 
 # loop through all key, value pairs
