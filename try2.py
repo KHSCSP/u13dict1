@@ -42,7 +42,7 @@ print("--- looping through key, values ---")
 
 
 # a list of your friends
-# loop through all keys
+# loop through all keys in the 'favs' dictionary
 # if that person is in your friends list, display a special message
 print("\n--- a list of friends ---")
 
@@ -50,5 +50,6 @@ print("\n--- a list of friends ---")
 
 # cool trick!!    
 print("\n--- using set() to remove duplicates ---")
-
+print("here are all languages listed:")
+print("here is the set of languages listed:")
 # notice the new data type - it is a 'set' data type
