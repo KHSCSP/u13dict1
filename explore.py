@@ -1,4 +1,5 @@
 # a simple dictionary
+# { key : value }
 dog1 = {'name': 'December', 'breed': 'lab', 'age': 5}
 
 # this one variable, 'dog1', stores three pieces of information
