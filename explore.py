@@ -2,7 +2,7 @@
 # { key : value }
 dog1 = {'name': 'December', 'breed': 'lab', 'age': 5}
 
-# this one variable, 'dog1', stores three pieces of information
+# this one variable, 'dog1', stores three key:value pairs of information
 print("\nwe can access the information in a a way similar to a list, using []")
 print(dog1['name'])
 print(dog1['age'])
