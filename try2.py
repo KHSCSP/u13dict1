@@ -35,6 +35,18 @@ favs = {
     'phil': 'python'
 }
 
+
+# add one more using []
+
+
+# add one more using .update()
+
+
+
+# add several using .update()
+
+
+
 # display a random person and their favorite language
 
 
