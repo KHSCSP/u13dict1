@@ -36,12 +36,6 @@ favs = {
 }
 
 
-# add one more using []
-
-
-# add one more using .update()
-
-
 
 # add several using .update()
 
