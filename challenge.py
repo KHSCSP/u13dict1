@@ -1,7 +1,7 @@
 import random
 
 vocab = {
-    '3.11': 'the current version of Python',
+    '3.14': 'the current version of Python',
     'input': 'Information or signals entered into a computer system.',
     'output': 'Information or signals produced or delivered by a computer system.',
     'syntax': 'The set of rules that defines the combinations of symbols that are considered to be correctly structured in that language.',
