@@ -35,13 +35,13 @@ favs = {
     'phil': 'python'
 }
 
-# display a random friend and their favorite language
+# display a random person and their favorite language
 
 
 
 # loop through all key, value pairs
 # display a meaningful message
-print("--- looping through key, values ---")
+print("\n--- looping through key, values ---")
 
 
 
